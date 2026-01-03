@@ -64,7 +64,7 @@ The `utils/` directory contains scripts for data manipulation:
 
 The `data/` directory contains:
 
-- `epub_pesen/`: Original EPUB files of Dmitry Soldatenko's works.
+- `epub_pesen/`: Original EPUB files of Vyacheslav Soldatenko's works.
 - `txt_pesen/`: Converted text files.
 - `json_pesen_gnomo/`: JSON formatted data.
 - `txt_gnomo/`: Additional text data.
